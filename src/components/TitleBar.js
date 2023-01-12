@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const TitleBar = ({handleSelectChange, genres}) =>{
   return (
     <div>

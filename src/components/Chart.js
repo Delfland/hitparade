@@ -1,5 +1,6 @@
 import React from 'react';
 import Song from './Song';
+import TitleBar from './TitleBar';
 
 const Chart = ({ songs }) => {
   if (songs === null || songs.length === 0) {
